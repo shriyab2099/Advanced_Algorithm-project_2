@@ -1,3 +1,7 @@
+#Team 6: Aria Askaryar, Shriya Bannikop
+"""
+Algorithm 2:Finding the Longest String Chain
+
 def longestStringChain(Strings):
     # Create a dictionary to store the chain length for each string
     chain_length = {}
