@@ -1,7 +1,20 @@
 #Team 6: Aria Askaryar, Shriya Bannikop
 """
 Algorithm 2:Finding the Longest String Chain
+Given a list of strings, design an algorithm that returns the longest possible string chain, that may
+be built from the given strings. The algorithm should return the string chain in descending order
+(i.e., from the longest string to the shortest one). Note that string chains of length 1 are not
+acceptable; if the list of strings does not contain any string chain formed by two or more strings,
+the function should return an empty array. You may assume that there will only be one longest
+string chain.
 
+Sample Input
+Strings = ["abde", "abc", "abd", "abcde", "ade", "ae", "1abde", "abcdef"]
+
+Sample Output:
+["abcdef", "abcde", "abde", "ade", "ae"
+
+"""
 def longestStringChain(Strings):
     # Create a dictionary to store the chain length for each string
     chain_length = {}
