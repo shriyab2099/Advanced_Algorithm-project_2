@@ -13,8 +13,8 @@
 5. You can replace the Example Input values with your own data.
 
 6. Run the Python script using your preferred Python interpreter or command prompt.
-7. 
-8. To Run the program using the command on terminal: 
+   
+7. To Run the program using the command on terminal: 
 - python algorithm1.py
 - python algorithm2.py
 
