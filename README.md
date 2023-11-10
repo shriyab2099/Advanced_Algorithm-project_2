@@ -26,6 +26,16 @@ if this didnt work use
 - python3 algorithm1.py
 - python3 algorithm2.py
 
+# Algorithm 1: Optimizing Production Lines
+
+## Description
+The algorithm reduces assembly line delays by efficiently assigning steps to multiple stations. It aims to minimize the slowest station's time by allowing a single station to handle consecutive steps. The output is the longest duration among the stations after this optimization.
+
+## Example Input
+```python
+Durations = [15, 15, 30, 30, 45]
+Stations = [3]
+```
 
 # Algorithm 2: Unique Starting City
 
@@ -35,7 +45,7 @@ The goal is to find the longest string chain from a list of strings. A string ch
 ## Example Input
 ```python
 Strings = ["abde", "abc", "abd", "abcde", "ade", "ae", "1abde", "abcdef"]
-
+```
 
 
 
