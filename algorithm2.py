@@ -1,4 +1,4 @@
-#Team 6: Aria Askaryar, Shriya Bannikop
+#Team 6: Shriya Bannikop
 """
 Algorithm 2:Finding the Longest String Chain
 Given a list of strings, design an algorithm that returns the longest possible string chain, that may
